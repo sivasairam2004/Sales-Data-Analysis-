@@ -44,12 +44,7 @@ It is a beginner-friendly data analysis project suitable for a fresher resume.
 
 ## 🖼 Dashboard Preview
 
-> Power BI Dashboard Screenshot
-
-![Sales Dashboard](dashboard.png)
-
-*(Upload your Power BI dashboard screenshot with the name `dashboard.png`)*
-
+-- https://github.com/sivasairam2004/Sales-Data-Analysis-/blob/main/images.png
 ---
 
 ## 👤 Author
