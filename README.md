@@ -47,5 +47,5 @@ The analysis is done using **Excel, Python, and Power BI**.
 ---
 
 ## 👤 Author
-**Sivasairam.M**  
+**Sivasairam M**  
 B.Tech – Computer Science Engineering
